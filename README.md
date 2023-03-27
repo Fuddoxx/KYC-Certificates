@@ -9,9 +9,6 @@ The information given to us during the KYC process is stored securely on our sys
 KYC Process:
 
 *Submit the KYC application
-
 *ID Document verification
-
 *Smart Contract check
-
 *Completion & certificate delivery within 48hrs
